@@ -21,6 +21,7 @@ This project contains a collection of Jupyter Notebooks that demonstrate differe
 
 ## Datasets
   building_data.xlsx: A dataset likely used for one of the visualizations.
+  
   Dev_Salary.xlsx: Developer salary data for analysis and plotting.
 
 ## Images
