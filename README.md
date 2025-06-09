@@ -20,5 +20,5 @@ This project contains a collection of Jupyter Notebooks that demonstrate differe
   
 ## Requirements
   Make sure you have the following Python libraries installed:
-  ~~~pip install pandas matplotlib seaborn~~~
+  ~~~ pip install pandas matplotlib seaborn ~~~
 
